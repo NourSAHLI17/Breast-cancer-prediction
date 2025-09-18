@@ -1,24 +1,16 @@
-# Breast Cancer Diagnosis Project
+Description:
+This project applies artificial intelligence and machine learning techniques to the diagnosis and prediction of breast cancer. It leverages advanced data preprocessing, exploratory data analysis, and feature engineering to extract meaningful insights from medical datasets. Multiple machine learning algorithms are implemented, including classification models, to accurately predict cancer outcomes and identify critical biomarkers. The project emphasizes interpretability and reproducibility, with all analyses conducted in interactive Jupyter notebooks. It demonstrates practical AI applications in healthcare, highlighting how predictive modeling can support medical decision-making.
 
-This project focuses on analyzing and predicting breast cancer using Python and machine learning. The goal is to explore the dataset, clean and preprocess the data, build predictive models, and identify the most important factors influencing breast cancer diagnosis.
+Technologies and Tools:
 
-## Features
-- Data cleaning and preprocessing
-- Exploratory data analysis
-- Predictive modeling using machine learning
-- Feature importance analysis
-- Jupyter notebooks for interactive exploration
+Python – Core programming language for data science and AI
 
-## Technologies
-Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, Jupyter Notebook
+Pandas & NumPy – Data manipulation and numerical computing
 
-## Usage
-1. Clone the repository:
-   git clone https://github.com/NourSAHLI17/Diagnostic-cancer-du-sein.git
-2. Open the Jupyter notebooks in your local environment.
-3. Run the notebooks step by step to explore the analysis and prediction results.
+Matplotlib & Seaborn – Data visualization and exploratory analysis
 
-## Files
-- `Notebook1_scrapping.ipynb` – Data extraction and preprocessing
-- `diagnostic_cancer_du_sein.ipynb` – Main analysis and predictive modeling
-- `rapport.pdf` – Optional PDF report summarizing the methodology and resu
+Scikit-learn – Supervised learning, model evaluation, and feature importance
+
+Jupyter Notebook – Interactive environment for reproducibility
+
+Machine Learning Techniques: Logistic Regression, Decision Trees, Random Forests, Support Vector Machines, and feature selection methods
